@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="module" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="faeaec9eda6bc4c8cb6e1a9156a858be">
+        <source>Availability</source>
+        <target>Availability</target>
+      </trans-unit>
+      <trans-unit id="8289b7ec22f39ace395a246dec26e79f">
+        <source>in stock</source>
+        <target>in stock</target>
+      </trans-unit>
+      <trans-unit id="7108537956afa2a526f96cc9da7b0c36">
+        <source>delivery</source>
+        <target>delivery</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

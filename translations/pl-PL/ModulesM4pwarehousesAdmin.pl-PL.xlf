@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="module" source-language="en-US" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="3a8af4cb365bd7265633a617bc8a00a3">
+        <source>Warehouses and stock</source>
+        <target>Magazyny i stany</target>
+      </trans-unit>
+      <trans-unit id="4839ecd8aa276548583a994f4ef23e95">
+        <source>Several warehouses with their own stock per combination and a delivery time shown to the customer.</source>
+        <target>Kilka magazynów z osobnymi stanami per kombinacja i czasem dostawy pokazywanym klientowi.</target>
+      </trans-unit>
+      <trans-unit id="a00ab53ce6db3777085ce34eea4bee57">
+        <source>Product (no combinations)</source>
+        <target>Produkt (bez kombinacji)</target>
+      </trans-unit>
+      <trans-unit id="b718adec73e04ce3ec720dd11a06a308">
+        <source>ID</source>
+        <target>ID</target>
+      </trans-unit>
+      <trans-unit id="49ee3087348e8d44e1feda1917443987">
+        <source>Name</source>
+        <target>Nazwa</target>
+      </trans-unit>
+      <trans-unit id="7320268d3e6def915f7a462afd0e5738">
+        <source>Delivery time</source>
+        <target>Czas dostawy</target>
+      </trans-unit>
+      <trans-unit id="26d6b7e13fef62e89ebdc5b7bef429cb">
+        <source>Total stock</source>
+        <target>Stan łączny</target>
+      </trans-unit>
+      <trans-unit id="00d23a76e43b46dae9ec7aa9dcbebb32">
+        <source>Enabled</source>
+        <target>Aktywny</target>
+      </trans-unit>
+      <trans-unit id="d3b206d196cd6be3a2764c1fb90b200f">
+        <source>Delete selected</source>
+        <target>Usuń zaznaczone</target>
+      </trans-unit>
+      <trans-unit id="793dd8d3ea18f6b8008a55d9cd9bafdc">
+        <source>Delete the selected warehouses?</source>
+        <target>Usunąć zaznaczone magazyny?</target>
+      </trans-unit>
+      <trans-unit id="6416e8cb5fc0a208d94fa7f5a300dbc4">
+        <source>Warehouse</source>
+        <target>Magazyn</target>
+      </trans-unit>
+      <trans-unit id="16b1041682877ec5bf7e21eada993fff">
+        <source>For example "2-3 working days" — shown to the customer on the product page</source>
+        <target>Na przykład „2-3 dni robocze" — pokazywane klientowi na karcie produktu</target>
+      </trans-unit>
+      <trans-unit id="93cba07454f06a4a960172bbd6e2a435">
+        <source>Yes</source>
+        <target>Tak</target>
+      </trans-unit>
+      <trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b">
+        <source>No</source>
+        <target>Nie</target>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Zapisz</target>
+      </trans-unit>
+      <trans-unit id="7b79d8e70dec6a9fca03001a68d8123a">
+        <source>Warehouse stock</source>
+        <target>Stany magazynowe</target>
+      </trans-unit>
+      <trans-unit id="51cefc94f555cfc0c3d0b3f92508398f">
+        <source>Add your warehouses first in</source>
+        <target>Najpierw dodaj magazyny w</target>
+      </trans-unit>
+      <trans-unit id="7ed5b3e8a3d6060c28c30e9a728acb04">
+        <source>Catalogue → Warehouses</source>
+        <target>Katalog → Magazyny</target>
+      </trans-unit>
+      <trans-unit id="859d795d36d263bf34abc1fcbaadcfb6">
+        <source>Save stock</source>
+        <target>Zapisz stany</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

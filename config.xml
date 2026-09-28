@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>m4p_warehouses</name>
+	<displayName><![CDATA[M4P Warehouses and Stock]]></displayName>
+	<version><![CDATA[1.1.0]]></version>
+	<description><![CDATA[Several warehouses with their own stock per combination and a delivery time shown to the customer.]]></description>
+	<author><![CDATA[Modules4Presta]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+</module>

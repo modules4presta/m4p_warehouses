@@ -1,0 +1,40 @@
+/*
+ * m4p_warehouses
+ *
+ * @author    Modules4Presta <contact@modules4presta.io>
+ * @copyright 2026 Nice Code sp. z o.o. (Modules4Presta)
+ * @license   https://opensource.org/licenses/MIT MIT License
+ */
+
+.m4p-warehouses {
+    margin-top: 1rem;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+}
+
+.m4p-warehouses .card-body {
+    padding: 0.75rem 1rem;
+}
+
+.m4p-warehouses .m4p-total {
+    margin-bottom: 0.5rem;
+}
+
+.m4p-warehouses .m4p-wh-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.m4p-warehouses .m4p-wh-list li {
+    padding: 0.2rem 0;
+    border-top: 1px dashed #eee;
+}
+
+.m4p-warehouses .m4p-wh-name {
+    font-weight: 600;
+}
+
+.m4p-warehouses .m4p-wh-delivery {
+    color: #777;
+}
