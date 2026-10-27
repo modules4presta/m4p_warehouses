@@ -15,8 +15,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Fixed
 
-- A product with no warehouse rows was shown as zero in every warehouse, contradicting the quantity
-  the shop was really selling. The block is now left out until the product is assigned somewhere.
+- The block is rendered only once a product is assigned to at least one warehouse, so it never
+  contradicts the quantity the shop is selling.
 
 ### Changed
 
